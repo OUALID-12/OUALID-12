@@ -61,58 +61,6 @@ Développeur passionné par la création de solutions innovantes combinant **int
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-### 📈 Aperçu Général
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### 💻 Langages les Plus Utilisés
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=html,css" alt="Top Languages" />
-
-### 🏆 Trophées GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-### 📊 Graphique de Contribution
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
-
-### 📉 Statistiques Détaillées
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_Commits-1000+-F85D7F?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_PRs-50+-F8D866?style=for-the-badge&logo=github&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total_Issues-30+-4C9AFF?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Contributed_to-20+_repos-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 Projets Phares
 
 ### 🤖 [DocQA-MS - Assistant Documentaire IA](https://github.com/yourusername/docqa-ms)
