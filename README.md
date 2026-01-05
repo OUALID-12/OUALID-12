@@ -122,7 +122,7 @@ Système d'analyse prédictive pour la santé cardiovasculaire.
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername) | Made with ❤️ and ☕
+⭐️ From [Oualid Elmansour](https://github.com/yourusername) | Made with ❤️ and ☕
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
